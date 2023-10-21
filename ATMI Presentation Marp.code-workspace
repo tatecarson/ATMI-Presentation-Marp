@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"./css/rose-pine-dawn.css",
+			"./css/rose-pine-moon.css",
+			"./css/rose-pine.css"
+		]
+	}
+}
