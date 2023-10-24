@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: rose-pine-dawn
+# style: _cover
 paginate: true
 title: ATMI Pres
 author: "Tate Carson"
@@ -12,16 +13,15 @@ style: |
 
 ---
 
-# Teaching Video Game Sound
+# <!-- fit --> Teaching Video Game Sound
 
-## Balancing Technical Know-How with Sonic Creativity
+## <!-- fit --> Balancing Technical Know-How with Sonic Creativity
 
 <div align="right">
   <a href="http://tatecarson.com">Tate Carson</a> <br>
   Assistant Professor in Digital Sound Design <br>
   Dakota State University 
 </div>
-
 
 ---
 
@@ -34,18 +34,16 @@ footer: 'Source: Returnal (2021) [AllGamers](https://ag.hyperxgaming.com/article
 
 # Introduction
 
-* Trace the evolution of game audio education
-* Discuss best practices in game audio education
-* Describe DSU's course
-* Share project-based learning models
-* Encourage course adoption
-* Show fit within a music tech program
+- Trace the evolution of game audio education
+- Discuss best practices in game audio education
+- Describe DSU's course
+- Share project-based learning models
+- Encourage course adoption
+- Show fit within a music tech program
 
 
 
 <!-- 
-**Test**
-
 - To present a history of game education and how it has coalesced into a discipline
 - To exchange ideas and best practices for game audio education
 - To describe the course as it's taught at DSU. To showcase an innovative approach to teaching game audio
@@ -58,7 +56,7 @@ footer: 'Source: Returnal (2021) [AllGamers](https://ag.hyperxgaming.com/article
 ---
 
 
-# Advice from the literature
+# <!-- fit --> Advice from the literature
 
 <!-- footer: '' -->
 
@@ -202,26 +200,82 @@ Bragança 2015; Sarisky and Pennycook 2009).**' -->
 
 # Course Structure 
 
-## DAD 424 Advanced Digital Sound Design
+## DSU's Sound Design for Games 
 
+- Covers history and evolution of game sound 
+- Discusses sound design specifics for interactive games 
+- Teaches audio implementation techniques
+- Group project with Game Design applies skills to real game audio 
 
+![bg right:40%](images/team-soldiers-walk-city-after-nuclear-war-illustration.jpg)
+
+<!-- footer: <a href="https://www.freepik.com/free-photo/team-soldiers-walk-city-after-nuclear-war-illustration_14402271.htm#query=game&position=48&from_view=search&track=sph">Image by liuzishan</a> on Freepik -->
+
+<!-- 
+
+- Covers history of game sound and how it has evolved over time
+- Discusses sound design specifics for interactive games vs linear media
+- Teaches audio implementation techniques for integrating sound in games
+- Includes collaborative group project with Computer Game Design program to apply skills to a real game audio project
+- Allows students to utilize skills learned in class on a hands-on game development experience 
+- Offered online to students and the general public to make the course accessible to a wider audience
+- Aims to transform existing skills in linear media sound design and music to interactive game audio, adapting them to the new gaming context
+- Discusses both the technical aspects of audio implementation and the creative aspects of sound design needed for game audio
+- Provides a well-rounded game audio education to prepare students for careers in the gaming industry
+- Fits into the broader music technology curriculum as game audio is a growing field in the music industry
+ -->
+
+---
+
+# <!-- fit --> Game Audio History 
+
+- Game Audio Curriculum Guidelines 
+  - Video Game and Game Audio History 
+- Sarisky Course
+  - Introduction to the Concepts of Audio for Electronic Games
 
 <!-- footer: '' -->
 
+<!-- 
+- The game audio curriculum guidelines suggest an entire course on game audio history: 
+  - Summary: The course "Video Game and Game Audio History (X-02)" provides an overview of the history of video games, focusing on the evolution of sound and music. Teaching methods include lectures, discussions, and projects, covering topics from the history of video games to the impact of technology on audio. Evaluation is based on participation, a mid-term exam, presentations, and a final project.
+- Sariksy's course implements a history module within a larger course
+  - Sarisky's course, "Introduction to the Concepts of Audio for Electronic Games," focuses on sound design in gaming, covering terminology, technology, and techniques for implementing sound and music. The course explores the history of game audio, principles of sound implementation, and introduces various middleware tools like Xact, Wwise, Fmod, and Unreal. Upon completion, students will be equipped to analyze sound designs, understand the roles in an audio production team, and apply sound assets using level editing tools.
+
+ -->
+
 ---
 
-![bg](https://fakeimg.pl/800x600/0288d1/fff/?text=A)
-![bg](https://fakeimg.pl/800x600/02669d/fff/?text=B)
-![bg](https://fakeimg.pl/800x600/67b8e3/fff/?text=C)
+## Game Audio History: Weeks 1 -3 
 
+| Week 1                                                       | Week 2                                                            | Week 3                                          |
+| ------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------- |
+| Covers evolution from Flash to HTML5 web games               | Traces game audio history with advances in graphics and computing | Workflow for game sound designers               |
+| Discusses adaptive, reactive audio in emergent gameplay      | Innovations: sampled sound, MIDI, streaming music, 3D audio       | Types of sounds, editing techniques, team roles |
+| Links game design concepts like interactivity to audio needs | Iconic games and their innovative audio tech usage                | Audio file formats and sound libraries          |
+
+
+<!-- 
+## Key Takeaway:
+- Lectures cover evolution, innovations, and workflows in game audio history.
+ -->
 
 ---
 
-![bg left:33%](https://picsum.photos/720?image=27)
+# Slide 2: Exercises 1 & 2 Summary
 
-# Split backgrounds with specified size
+## Exercise 1: Untitled Cat Game
+- Source or create audio files based on specifications.
+- Place in 'sound_assets' folder and update asset list.
+- Follows lessons on workflows, asset lists, and editing techniques.
 
-<!-- here are some notes -->
+## Exercise 2: Horror UI Sound Effects in Reaper
+- Download free SFX and set up the project.
+- Edit sounds to match visuals, use advanced editing techniques.
+- Relates to lectures on sound layers and immersive audio.
+
+## Key Takeaway:
+- Exercises provide hands-on practice and reinforce lecture concepts, such as sourcing assets, sound editing, and audio's role in gameplay.
 
 ---
 
