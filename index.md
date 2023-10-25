@@ -10,7 +10,7 @@ style: |
     text-align: center;
     font-size: small;
   }
-
+# marp --theme ./css/rose-pine-dawn.css  --html index.md
 ---
 
 # <!-- fit --> Teaching Video Game Sound
