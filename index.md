@@ -40,19 +40,16 @@ footer: 'Source: Returnal (2021) [AllGamers](https://ag.hyperxgaming.com/article
 
 - Trace the evolution of game audio education
 - Discuss best practices in game audio education
-- Describe DSU's course
-- Share project-based learning models
+- Describe DSU's course and share project-based learning models
 - Encourage course adoption
 - Show fit within a music tech program
-
-
 
 <!-- 
 - The purpose of this talk:
   - To present a history of game education and how it is beginning to form into a discipline
   - To exchange ideas and best practices for game audio education
-  - To describe the course as it's taught at DSU. To showcase an innovative approach to teaching game audio
-  - To share a model for an effective project-based learning and possible collaboration with a game design program
+  - To describe the course as it's taught at DSU. 
+  - To share a model for an effective project-based learning and collaboration with a game design program
   - To inspire other institutions to adopt similar courses or components
   - To demonstrate how game audio education can fit into a music technology program
  -->
@@ -74,12 +71,9 @@ footer: 'Source: Returnal (2021) [AllGamers](https://ag.hyperxgaming.com/article
 - More work needed on dedicated programs meeting industry needs (Onen, Stevens, and Collins 2011)
 
 <!-- 
-
-**No established curriculum or standards**
-
-- There is currently no established curriculum or set of standards for comprehensive game audio education programs (Onen, Stevens, and Collins 2011; Bragança 2015; Cunningham and Smith 2015; Sarisky 2011; Hug 2007). 
-- Different academic institutions vary considerably in their game audio offerings, leading to gaps and inconsistencies in students' knowledge.
-- More work is needed to develop dedicated programs meeting industry needs (Onen, Stevens, and Collins 2011).
+- There is currently no established curriculum or set of standards for comprehensive game audio education programs. 
+- Different academic institutions vary considerably in their game audio offerings. This can lead to gaps and inconsistencies in students' knowledge.
+- More work is needed to develop dedicated programs meeting industry needs.
  -->
 
 
@@ -128,12 +122,11 @@ Onen, Stevens, and Collins (2011):
 
 Game Audio Curriculum Guideline (2011), a document written by Interactive Audio Special Interest Group 
 
-- Notes game audio combines disciplines often separated in universities.
-- Practitioners wear many hats, blurring lines between roles.  
+- Adds that practitioners wear many hats, blurring lines between roles.  
 
 Bragança (2015):
 
-- Emphasizes game audio's interdisciplinary nature demands awareness of diverse topics.
+- Also emphasizes game audio's interdisciplinary nature demands awareness of diverse topics.
 - Calls for collaboration between academic departments.
 
 Sarisky and Pennycook (2009):
@@ -152,8 +145,8 @@ Sarisky and Pennycook (2009):
   
 <!-- 
 - Programs should teach core principles, not specific tools 
-  - Technology changes rapidly in game audio field  
-  - Focus on adaptability and autonomous learning 
+  - This is because technology changes rapidly in game audio field  
+  - Curriculum should focus on adaptability and autonomous learning 
 - Game industry is driven by technological innovation  
   - Software and tech can become outdated quickly
   - Students need early understanding of different areas 
@@ -166,15 +159,12 @@ Sarisky and Pennycook (2009):
 
 - Industry emphasizes technical skills and "soft skills" (Onen, Stevens, and Collins 2011; Bragança 2015)
 - Recommend recreating industry pressures to nurture soft skills (Bragança 2015)
-- Adaptability also important (Onen, Stevens, and Collins 2011) 
 
 <!-- 
 
-- Industry emphasizes technical skills and "soft skills" like communication and teamwork (Onen, Stevens, and Collins 2011; Bragança 2015)
-  - Soft skills overlooked in academia but critical for industry (Bragança 2015)
-  - Soft skills key for an industry based on collaboration (Bragança 2015)
-- Recommend recreating industry pressures in class to nurture soft skills (Bragança 2015)
-- Adaptability to changes in the field also important (Onen, Stevens, and Collins 2011) 
+- Industry emphasizes the need not only for technical skills, but also for "soft skills" like communication and teamwork.
+  - These soft skills are often overlooked in academia but critical for industry with its needs of collaboration. 
+- Braganca recommend recreating industry pressures in class to nurture soft skills
 
 -->
 
@@ -192,14 +182,7 @@ Sarisky and Pennycook (2009):
 <!-- 
 The literature offers suggestions for building a multi year game audio curriculum with common courses and specialized tracks. At DSU we offer core courses that are geared generally to music technology and we offer only one game audio course, but this concept is still helpful. 
 
-#### Core Courses
-- (Onen, Stevens, and Collins 2011) - Core courses build essential skills like recording and programming, and a common first year offers a broad foundation (Onen, Stevens, and Collins 2011).
-
-#### Specialized Tracks
-- (Sarisky and Pennycook 2009) - Specialized courses offer depth in areas like composition and sound design, aligning with career goals.
-
-#### Collaboration
-- (Onen, Stevens, and Collins 2011) - Curriculum emphasizes teamwork through collaborative projects, preparing students for the interdisciplinary nature of the field .
+- Onen, Stevens, and Collins suggest core courses to build essential skills like recording and programming, and a common first year offers a broad foundation. Sarisky and Pennycook follow this by suggesting specialized courses offer depth in areas like composition and sound design, aligning with career goals. All agree that curriculum should emphasize teamwork through collaborative projects, preparing students for the interdisciplinary nature of the field.
  -->
 
 ---
@@ -212,16 +195,15 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 <!-- 
 - Onen and Hug encourage experiential, project-based learning
-  - Onen recommends learning cycles with simulation, role play 
-- Onen also mentions that team projects allow reflecting on roles, developing collaborative capabilities
-- and ongoing journaling and portfolio development suggested 
+- Onen also recommends using simulation, role play within team projects, with time left for reflecting on roles. 
+- Ongoing journaling and portfolio development suggested as a counterpart. 
  -->
 
 ---
 
 ## Industry Feedback 
 
-- (Onen, Stevens, and Collins 2011)
+- Onen, Stevens, and Collins 2011
   - Ongoing feedback from industry and updating curricula is important as game audio practices evolve 
   - More pedagogical materials need to be developed to support teaching 
 
@@ -244,14 +226,10 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 <!-- 
 
-- My course covers 
-  - the history of game sound and its evolution 
-  - Aims to transform existing skills in linear media sound design and music to interactive game audio, adapting them a gaming context 
-  - both the technical aspects of audio implementation and the creative aspects of sound design needed for game audio
-- Includes a collaborative group project with Computer Game Design program to apply skills to a real game audio project
-  - Allows students to utilize skills learned in class on a hands-on game development experience 
-- Provides a well-rounded game audio education to prepare students for careers in the gaming industry
-- Fits into the broader music technology curriculum as game audio is a growing field in the music industry
+- First, my course covers the history of game sound and its evolution 
+- Then we work to transform existing skills in  sound design and music composition for linear media to the needs of interactive game audio.
+- The final project is a collaborative group project with Computer Game Design program to apply skills to a real game audio project
+  - This project allows students to utilize skills learned in class on a hands-on game development experience 
 -->
 
 ---
@@ -281,8 +259,7 @@ The literature offers suggestions for building a multi year game audio curriculu
 - Edit sounds to match visuals, use advanced editing techniques.
 
 <!-- 
-## Key Takeaway:
-- Exercises provide hands-on practice and reinforce lecture concepts, such as sourcing assets, sound editing, and audio's role in gameplay.
+- Exercises provide hands-on practice and reinforce lecture concepts, such as sourcing assets, sound editing, and understanding audio's role in gameplay.
 
  -->
 
@@ -319,11 +296,9 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 
 <!-- 
-### Key Points on Voice-Overs
-- I explain teh importance of VO to games. The human voice enhances game immersion through cues, storytelling, and character interaction.
-- Progress from early voice synthesis to recorded dialogue. 
-- Explain both diegetic and non-diegetic roles of VO; prevalent in story-driven games.
-- **Production Roles**: Involves multiple roles such as producer, writer, voice actor, and engineers.
+- I explain the importance of VO to games, how human voice enhances game immersion through cues, storytelling, and character interaction.
+- We progress from early voice synthesis to recorded dialogue. 
+- We also discuss the roles in voice over such as producer, writer, voice actor, and engineers.
   
 ### Exercise 3: Voice Over
 - **Recording Engineer**: Responsibility for high-quality recordings, reflecting lesson on studio setup.
@@ -351,8 +326,8 @@ The literature offers suggestions for building a multi year game audio curriculu
 <!-- 
 
 
-- **Project Objective**: The main aim of this project is to take a 30-second cutscene or trailer from a game of your choice and redesign its sound to make the experience more immersive.
-- **Content Focus**: Unlike typical sound design projects that may include background music, this project specifically asks you to focus solely on the sound effects that accompany on-screen actions. 
+- **Project Objective**: The main aim of this project is to take a 30-second cutscene or trailer from a game create a sound re-design. 
+- **Content Focus**: Unlike typical sound design projects that may include background music, this project specifically asks students to focus on the sound effects that accompany on-screen actions. 
 - **Sound Design Techniques**: Students apply various sound design techniques that we've covered in class. This includes everything from pitch modulation to volume adjustments and even applying specific filters to make each sound effect unique and multilayered.
 - **Narrative Flow**: One of the unique aspects of this project is the requirement to think narratively. Students plan how your sound effects can introduce rises, falls, and impactful moments that amplify the emotional experience of the scene.
  -->
@@ -388,7 +363,7 @@ The literature offers suggestions for building a multi year game audio curriculu
 </div>
 
 <!-- 
-- **Module Description**: Though this class doesn't focus on composing music, it's important for students to understand how adaptive techniques like layering and sequencing are used to create interactive game soundtracks. This involves a collaborative effort from the music team, from composition to final integration.
+- Though this class doesn't focus on composing music, it's important for students to understand how adaptive composing techniques like layering and sequencing are used to create interactive game soundtracks. 
 - **Exercise 4**: This exercise gives students hands-on experience with the complex process of exporting music assets for games. It teaches them to use Reaper's (a digital audio workstation) powerful export capabilities to generate stems that can be integrated into game audio middleware. This process includes techniques like vertical re-orchestration, linear cinematic cues, and batch exporting, among others.
 - **Real-World Skills**: The exercise is designed to impart real-world skills needed to deliver production-ready music assets for a hypothetical game project, including understanding the need for documentation and technical export tasks.
 
@@ -405,9 +380,10 @@ The literature offers suggestions for building a multi year game audio curriculu
 ![bg right:50%](images/wwise.webp)
 
 <!-- 
-- **Middleware Choices**: We use Audiokinetic Wwise as our middleware, but FMOD is another popular choice. The depth of audio implementation covered in class should depend on students' technical ability and interest.
-- **Initial Setup**: Week 7 focuses on setting up Unity and Wwise for game audio. It covers the installation process, interface exploration, and a foundational project that involves simple spatial audio techniques.
-- **Advanced Techniques**: As we progress through weeks 11-12, we introduce more complex topics like sound positioning, triggering sounds through player actions, and creating a footstep system using random containers and switches.
+- Middleware is the software that allows sound designers to place sounds in a game. Its like the DAW of the game audio world.  
+- We use Audiokinetic Wwise as our middleware, but FMOD is another popular choice. The depth of audio implementation covered in class should depend on students' technical ability and interest.
+- Week 7 focuses on setting up Unity (a common game engine) and Wwise for game audio. It covers the installation process, user interface exploration, and a foundational project that involves simple spatial audio techniques.
+- As we progress through weeks 11-12, we introduce more complex topics like sound positioning, triggering sounds through player actions, and creating a footstep system using random containers and switches.
  -->
 
 <!-- footer: 'source: [Blog | Audiokinetic](https://blog.audiokinetic.com/en/wwise-2018.1/)' -->
@@ -417,19 +393,15 @@ The literature offers suggestions for building a multi year game audio curriculu
 # Project 2: Unity and Wwise Integration 
 
 - **Objective**: Equip students with ability to complete Wwise-Unity integration and implement spatial audio.
-  - **Unity Steps**: Create 3D project, add cube, and set up AkGameObj component.
-  - **Wwise Setup**: Import loop sound, create Event, enable 3D positioning.
-- **Integration**: Link Wwise to Unity, add Event to cube, and spatialize sound via C# script.
-- **Learning Goals**: Master AkGameObj setup, sound import, Event triggering, and basic 3D audio.
+  - **Unity Steps**: Create 3D project, add cube, and set up Wwise components.
+  - **Wwise Setup**: Import a loop sound, create an Event, enable 3D positioning.
+- **Learning Goals**: Master Unity/Wwise setup, sound import, Event triggering, and basic 3D audio.
 
 <!-- 
 
 - **Objective**: The aim of this project is to equip students with the technical know-how to integrate Wwise with Unity, focusing specifically on spatial audio.  
-  - **Unity Steps**: Students will start by creating a new 3D Unity project and adding a cube game object, which will be enhanced for Wwise integration through the AkGameObj component.
-  - **Wwise Configuration**: In Wwise, students will create a new project and import a looping sound effect. They will then set up an Event to trigger this sound and enable its 3D positioning.
-- **Integration**: The next step is to link the Wwise project with Unity, add the Wwise Event to the cube to play the sound, and use a custom C# script to move the cube in space over time, thereby spatializing the sound.
-- **Learning Outcomes**: By the end of this project, students will have a foundational understanding of how to set up an AkGameObj, import sounds into Wwise, create and trigger Positioned Events, and understand the basics of 3D sound positioning.
-- **Takeaway**: This project serves as an introduction to the fundamentals of spatialized audio, providing students with a solid foundation without overwhelming them with advanced features.
+- We don't start this process with a real game, but with more of a demo example, an animated cube. While this isn't a very engaging example, it helps to simplify the process while students are getting comfortable learning the new softwares. 
+- **Learning Outcomes**: By the end of this project, students will have a foundational understanding of how to set up an Unity with Wwise, import sounds into Wwise, create and trigger Positioned Events in Unity, and understand the basics of 3D sound positioning.
 
 -->
 
@@ -459,7 +431,6 @@ The literature offers suggestions for building a multi year game audio curriculu
 # <!-- fit --> Final Project Challenges
 
 - **Overview**: challenges from group dynamics to technical difficulties, that need to be addressed for successful completion.
-- **Group Issues**: Independent work can lead to unequal participation, unclear roles, and varying commitment levels. 
 - **Time Constraints**: Students often feel the pinch of time, both for mastering Wwise and C# basics and for delivering a polished, sound-rich game.
 - **Game Selection**: Finding the right game for students to work on is tricky.
 - **Debugging Difficulties**: With students working on different games, it becomes a complicated task for the professor to troubleshoot and debug each project, given the unfamiliarity with the individual games.
@@ -468,7 +439,6 @@ The literature offers suggestions for building a multi year game audio curriculu
 ### Final Project Challenges
 
 - **Overview**: The final project presents several challenges, from group dynamics to technical difficulties, that need to be addressed for successful completion.
-- **Group Issues**: Independent work can lead to unequal participation, unclear roles, and varying commitment levels. Time management and quality can suffer as a result.
 - **Time Constraints**: Students often feel the pinch of time, both for mastering Wwise and C# basics and for delivering a polished, sound-rich game.
 - **Game Selection**: Finding the right game for students to work on is tricky. Games from the game design class can have architectural and bug issues, while finding suitable games online is time-consuming and has a low success rate.
 - **Debugging Difficulties**: With students working on different games, it becomes a complicated task for the professor to troubleshoot and debug each project, given the unfamiliarity with the individual games.
@@ -486,8 +456,6 @@ The literature offers suggestions for building a multi year game audio curriculu
 - Refine final project guidelines
 
 <!-- 
-### Speaker Notes
-
 - I've found that spending three weeks on the history of game audio is excessive and takes away from practical application. In future iterations, I'll cut this down to allocate more time for composing and implementing game music.
 - Another area I intend to improve is the audio implementation setup. I've noticed that many students face roadblocks here, mostly due to unclear instructions for installing the necessary software. To address this, I plan to provide more explicit and simplified guidelines to ensure that we spend more time learning about game audio implementation and less time troubleshooting.
 - Finally, I'm looking to make the final project more effective as a learning experience. I aim to make the project description less open-ended and provide a curated list of games for sound implementation. This will help students focus on delivering higher quality work.
@@ -562,13 +530,11 @@ The literature offers suggestions for building a multi year game audio curriculu
 ### Speaker Notes
 
 1. **Why Adopt the Course:**
-    - Adopting a game audio course enriches the music tech curriculum by integrating both creative and technical skills. It offers students new career pathways in the burgeoning gaming industry and fosters interdisciplinary learning through potential collaborations with game design programs.
-
+   - Adopting a game audio course enriches the music tech curriculum by integrating both creative and technical skills. It offers students new career pathways in the burgeoning gaming industry and fosters interdisciplinary learning through potential collaborations with game design programs.
 2. **Key Techniques in Game Audio:**
     - The course teaches universally applicable audio production techniques. These include layering sounds for complexity, creating sound palettes for cohesiveness, and understanding narrative flow for effective storytelling across various media like film and podcasts.
-
 3. **Applications Beyond Games:**
-   - By adding this course, we not only diversify our curriculum but also prepare students for a wide range of audio-related careers.
+   - By adding this course, one not only diversifies curriculum but also prepares students for a wide range of audio-related careers.
  
 -->
 
