@@ -256,6 +256,25 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 ---
 
+# <!-- fit --> Game Audio History: References
+
+- Game Audio Curriculum Guidelines 
+  - Video Game and Game Audio History 
+- Sarisky's Course
+  - Introduction to the Concepts of Audio for Electronic Games
+
+<!-- footer: '' -->
+
+<!-- 
+- The game audio curriculum guidelines suggest an entire course on game audio history: 
+  - The course "Video Game and Game Audio History" provides an overview of the history of video games, focusing on the evolution of sound and music. 
+- Sariksy's course implements a history module within a larger course
+  - Sarisky's course, "Introduction to the Concepts of Audio for Electronic Games," focuses on sound design in gaming, covering terminology, technology, and techniques for implementing sound and music. The course explores the history of game audio, principles of sound implementation, and introduces various middleware tools like Xact, Wwise, Fmod, and Unreal. Upon completion, students will be equipped to analyze sound designs, understand the roles in an audio production team, and apply sound assets using level editing tools.
+
+ -->
+
+---
+
 ## Game Audio History: Weeks 1 -3 
 
 | Week 1                                                      | Week 2                                                      | Week 3                                          |
@@ -288,6 +307,28 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 <!-- footer: "Exercises adapted from [APU Games](https://github.com/APUGames/)" -->
 
+---
+
+# Voice Over: References 
+
+- **Multifaceted Roles**: Composers often handle multiple tasks like sound effects and voice-overs in addition to music (Onen, Stevens, Collins, 2011).
+  - **Skill Set**: Beyond traditional media skills, game audio professionals need expertise in interactive, non-linear media.
+- **Voice and Dialog Specialization**: Roles include Dialog Event Designer, VO Actors, and VO Director, among others (Interactive Audio Special Interest Group (IASIG) 2011).
+  - **Education Path**: Students interested in specialization in voice/dialog should take a sound design track and relevant electives.
+
+<!-- 
+## Multifaceted Roles in Game Audio
+- According to Onen, Stevens, and Collins (2011), composers in the game audio sector often have to multitask. They don't just compose music; they are also responsible for recording and editing sound effects, sound design, and even dialog and voice-overs.
+
+## Specialization in Voice and Dialog
+- The "Game Audio Curriculum Guideline" from 2011 provides a detailed breakdown of specialized roles within voice and dialog in game audio. This includes roles like Dialog Event Designer, Character Profiler, VO Actors, and VO Director.
+- Each role comes with its own set of responsibilities, such as defining speech systems or directing voice-over performances. The guideline recommends that students who are interested in this area should focus on a sound design track and take electives in voice, theatre, and communication.
+
+## Career Options in Voice-Over
+- The curriculum guideline also suggests that students have the option to specialize in voice-over roles after completing a semester-long sound design course. 
+-->
+
+<!-- footer: '' -->
 
 ---
 
@@ -361,6 +402,28 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 ---
 
+# <!-- fit --> Interactive Music Composition: References
+
+- **Practical Focus**: Hands-on skills in courses like "Interactive Music Composition 1".
+- **Balanced Curriculum**: Blend of music theory and specialized electro-acoustic courses (Sarisky & Pennycook, 2009).
+- **Theoretical Inclusion**: Importance of 'Game Music Analysis' (Onen, Stevens, & Collins, 2011).
+- **Skill Prioritization**: Music analysis less crucial for sound designers compared to composers (Onen, Stevens, & Collins, 2011).
+
+<!-- 
+
+- **Practical Focus**: The "Interactive Music Composition 1" course, from the game audio curriculum guideline, is an example of applied approaches in game audio education. It equips students with the skills needed for entry-level positions in game development or freelance game music professions, covering everything from workflow and contracts to hands-on experience in advanced composition techniques .
+- **Balanced Curriculum**: According to Sarisky and Pennycook (2009), a well-rounded game audio curriculum should marry traditional music theory and history courses with specialized electro-acoustic and computer music composition courses, all aimed at meeting the unique demands of the game audio industry.
+- **Theoretical Inclusion**: Onen, Stevens, and Collins (2011) argue for the inclusion of theoretical components like 'Game Music Analysis.' These would provide students with a deeper understanding of the aesthetics, practices, and technological advances in interactive music.
+- **Skill Prioritization**: They also note that while music analysis skills are important, they are considered less crucial for roles like sound designers and programmers compared to composers.
+
+ -->
+
+
+
+<!-- footer: "" -->
+
+---
+
 ## Week 6: Interactive Music Composition 
 
 <div style="display: flex; justify-content: space-between;">
@@ -389,10 +452,30 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 <!-- 
 - **Module Description**: Though this class doesn't focus on composing music, it's important for students to understand how adaptive techniques like layering and sequencing are used to create interactive game soundtracks. This involves a collaborative effort from the music team, from composition to final integration.
+- **Week 6 Summary**: Early game music was constrained by technology, but has now evolved to include complex adaptive techniques like vertical remixing and horizontal sequencing to adapt the music based on player actions. The music team involves various roles, from the director and producer to engineers who finalize the tracks.
 - **Exercise 4**: This exercise gives students hands-on experience with the complex process of exporting music assets for games. It teaches them to use Reaper's (a digital audio workstation) powerful export capabilities to generate stems that can be integrated into game audio middleware. This process includes techniques like vertical re-orchestration, linear cinematic cues, and batch exporting, among others.
 - **Real-World Skills**: The exercise is designed to impart real-world skills needed to deliver production-ready music assets for a hypothetical game project, including understanding the need for documentation and technical export tasks.
 
 -->
+
+---
+
+# <!-- fit --> Audio Implementation: References    
+
+- **Focused Learning**: Cunningham and Smith (2015) streamlined modules to create a more focused course on game audio technologies and implementation techniques.
+- **Comprehensive Coverage**: Sarisky (2011) suggests adding two courses for a well-rounded curriculum, covering both interactive audio and historical aspects of game audio.
+- **Versatility in Roles**: Interactive Audio Special Interest Group (IASIG) (2011) emphasizes the need for multi-disciplinary skills, especially in smaller settings, including programming-like logic for audio implementation.
+
+<!-- 
+- **Curriculum Revisions for Focused Learning**: Cunningham and Smith (2015) discuss a revision in their game audio curriculum that consolidated two modules into a single, more focused module. This new module, "Audio Technology for Games," integrates digital audio fundamentals and editing processes with implementation techniques for modern game engines. 
+
+- **Course Additions for Comprehensive Coverage**: Sarisky (2011) proposes the addition of two new courses to the existing curriculum. The first course would cover interactive audio implementation and mixing, while the second focuses on the historical, artistic, and platform-specific aspects of electronic game audio. These courses aim to provide a well-rounded understanding of game audio.
+
+- **Jack-of-All-Trades in Audio**: The "Game Audio Curriculum Guideline" (2011) notes that game audio practitioners, especially in smaller or lower-budget settings, often need to be multi-disciplinary. They may have to compose, manage sound design, and even implement the audio, requiring a broader skill set that includes some programming knowledge. This reflects the industry's need for versatile professionals who can navigate the complexities of game audio implementation.
+
+ -->
+
+<!-- footer: "" -->
 
 ---
 
