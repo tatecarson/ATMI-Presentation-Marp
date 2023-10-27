@@ -146,10 +146,7 @@ Sarisky and Pennycook (2009):
 <!-- 
 - Programs should teach core principles, not specific tools 
   - This is because technology changes rapidly in game audio field  
-  - Curriculum should focus on adaptability and autonomous learning 
-- Game industry is driven by technological innovation  
-  - Software and tech can become outdated quickly
-  - Students need early understanding of different areas 
+  - Curriculum should focus on adaptability and autonomous learning  
 
  -->
 
@@ -182,7 +179,7 @@ Sarisky and Pennycook (2009):
 <!-- 
 The literature offers suggestions for building a multi year game audio curriculum with common courses and specialized tracks. At DSU we offer core courses that are geared generally to music technology and we offer only one game audio course, but this concept is still helpful. 
 
-- Onen, Stevens, and Collins suggest core courses to build essential skills like recording and programming, and a common first year offers a broad foundation. Sarisky and Pennycook follow this by suggesting specialized courses offer depth in areas like composition and sound design, aligning with career goals. All agree that curriculum should emphasize teamwork through collaborative projects, preparing students for the interdisciplinary nature of the field.
+- Onen, Stevens, and Collins suggest core courses to build essential skills like recording and programming. Sarisky and Pennycook follow this by suggesting specialized courses offer depth in areas like composition and sound design, aligning with career goals. All agree that curriculum should emphasize teamwork through collaborative projects, preparing students for the interdisciplinary nature of the field.
  -->
 
 ---
@@ -227,7 +224,8 @@ The literature offers suggestions for building a multi year game audio curriculu
 <!-- 
 
 - First, my course covers the history of game sound and its evolution 
-- Then we work to transform existing skills in  sound design and music composition for linear media to the needs of interactive game audio.
+- Then next unit extends students existing skills in  sound design and music composition for linear media to the needs of interactive game audio.
+- We cover the basics of audio implementation techniques 
 - The final project is a collaborative group project with Computer Game Design program to apply skills to a real game audio project
   - This project allows students to utilize skills learned in class on a hands-on game development experience 
 -->
@@ -467,10 +465,8 @@ The literature offers suggestions for building a multi year game audio curriculu
 
 # Course Adoption?  
 
- <!-- Container -->
   <div style="display: flex; justify-content: space-between;">
 
-  <!-- First Column -->
   <div style="width: 48%;">
     <ul style="padding-left: 20px;">
       <li><strong>Curriculum enrichment</strong>
@@ -483,7 +479,6 @@ The literature offers suggestions for building a multi year game audio curriculu
     </ol>
   </div>
 
-  <!-- Second Column -->
   <div style="width: 48%;">
     <ul start="2" style="padding-left: 20px;">
       <li><strong>Universal techniques</strong>
@@ -495,14 +490,13 @@ The literature offers suggestions for building a multi year game audio curriculu
     </ol>
   </div>
 
-</div> <!-- End of Container -->
+</div> 
 
 ## Other Applications
  
- <!-- Container -->
+
   <div style="display: flex; justify-content: space-between;">
 
-  <!-- First Column -->
   <div style="width: 48%;">
     <ul style="list-style: none; padding: 0;">
       <li><strong>Film & TV:</strong> Dynamic Mixing, Spatial Audio</li>
@@ -512,7 +506,6 @@ The literature offers suggestions for building a multi year game audio curriculu
     </ul>
   </div>
 
-  <!-- Second Column -->
   <div style="width: 48%;">
     <ul style="list-style: none; padding: 0;">
       <li><strong>VR/AR:</strong> Spatial Audio</li>
@@ -522,18 +515,16 @@ The literature offers suggestions for building a multi year game audio curriculu
     </ul>
   </div>
 
-  </div> <!-- End of Container -->
-
+  </div> 
 
 <!-- 
 
 ### Speaker Notes
 
 1. **Why Adopt the Course:**
-   - Adopting a game audio course enriches the music tech curriculum by integrating both creative and technical skills. It offers students new career pathways in the burgeoning gaming industry and fosters interdisciplinary learning through potential collaborations with game design programs.
-2. **Key Techniques in Game Audio:**
-    - The course teaches universally applicable audio production techniques. These include layering sounds for complexity, creating sound palettes for cohesiveness, and understanding narrative flow for effective storytelling across various media like film and podcasts.
-3. **Applications Beyond Games:**
+      - Adopting a game audio course enriches the music tech curriculum by integrating both creative and technical skills. It offers students new career pathways in the burgeoning gaming industry and fosters interdisciplinary learning through potential collaborations with game design programs.
+     - The course teaches universally applicable audio production techniques. These include layering sounds for complexity, creating sound palettes for cohesiveness, and understanding narrative flow for effective storytelling across various media like film and podcasts.
+2. **Applications Beyond Games:**
    - By adding this course, one not only diversifies curriculum but also prepares students for a wide range of audio-related careers.
  
 -->
